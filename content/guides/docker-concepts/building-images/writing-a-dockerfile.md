@@ -1,10 +1,6 @@
----
-title: Writing a Dockerfile
+# Writing a Dockerfile
 keywords: concepts, build, images, container, docker desktop
 description: This concept page will teach you how to create image using Dockerfile.
----
-
-{{< youtube-embed Jx8zoIhiP4c >}}
 
 ## Explanation
 
@@ -136,18 +132,7 @@ Now that you have the project, you’re ready to create the `Dockerfile`.
 > you won't use it now. But, [learn more about it here](/engine/reference/commandline/init/).
 { .tip }
 
-## Additional resources
-
-To learn more about writing a Dockerfile, visit the following resources:
-
-* [Dockerfile reference](/reference/dockerfile/)
-* [Dockerfile best practices](/develop/develop-images/dockerfile_best-practices/)
-* [Create your own base image](/build/building/base-images/)
-* [Getting started with Docker Init](/reference/cli/docker/init/)
-
 ## Next steps
 
 Now that you have created a Dockerfile and learned the basics, it's time to learn about building, tagging, and pushing the images.
-
-{{< button text="Build, tag and publish the Image" url="build-tag-and-publish-an-image" >}}
 
