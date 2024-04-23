@@ -183,5 +183,3 @@ In this walkthrough, you searched and pulled a Docker image. In addition to pull
 
 
 Now that you have learned the basics of images, it's time to learn about distributing images through registries.
-
-{{< button text="What is a registry?" url="what-is-a-registry" >}}
