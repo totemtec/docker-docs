@@ -1,10 +1,8 @@
----
-title: What is a registry?
+# What is a registry?
 keywords: concepts, build, images, container, docker desktop
 description: What is a registry? This Docker Concept will explain what a registry is, explore their interoperability, and have you interact with registries.
 ---
 
-{{< youtube-embed 2WDl10Wv5rs >}}
 
 ## Explanation
 
@@ -124,13 +122,6 @@ Don't worry about the specifics of the Dockerfile, as you'll learn about that in
     ![Screenshot of the Docker Hub page that displays the newly added image tag](images/dockerhub-tags.webp?border=true) 
 
 In this walkthrough, you signed up for a Docker account, created your first Docker Hub repository, and built, tagged, and pushed a container image to your Docker Hub repository.
-
-## Additional resources
-
-- [Docker Hub Quickstart](/docker-hub/quickstart/)
-- [Manage Docker Hub Repositories](/docker-hub/repos/)
-
-## Next steps
 
 Now that you understand the basics of containers and images, you're ready to learn about Docker Compose.
 
