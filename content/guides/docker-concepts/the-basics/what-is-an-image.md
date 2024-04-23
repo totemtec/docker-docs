@@ -1,10 +1,6 @@
----
-title: What is an image?
+# What is an image?
 keywords: concepts, build, images, container, docker desktop
 description: What is an image
----
-
-{{< youtube-embed NyvT9REqLe4 >}}
 
 ## Explanation
 
@@ -183,24 +179,8 @@ Follow the instructions to search and pull a Docker image using CLI to view its 
     { .tip }
 
 
-{{< /tab >}}
-{{< /tabs >}}
-
 In this walkthrough, you searched and pulled a Docker image. In addition to pulling a Docker image, you also learned about the layers of a Docker Image.
 
-## Additional resources
-
-The following resources will help you learn more about exploring, finding, and building images:
-
-- [Docker Trusted Content](/trusted-content/)
-  - [Docker Official Images docs](/trusted-content/official-images/)
-  - [Docker Verified Publisher docs](/trusted-content/dvp-program/)
-  - [Docker-Sponsored Open Source Program docs](/trusted-content/dsos-program/)
-- [Explore the Image view in Docker Desktop](/desktop/use-desktop/images/)
-- [Packaging your software](/build/building/packaging/)
-- [Docker Hub](https://hub.docker.com)
-
-## Next steps
 
 Now that you have learned the basics of images, it's time to learn about distributing images through registries.
 
