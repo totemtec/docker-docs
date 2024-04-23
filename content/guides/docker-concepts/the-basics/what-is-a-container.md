@@ -1,10 +1,6 @@
----
-title: What is a container?
+# What is a container?
 keywords: concepts, build, images, container, docker desktop
 description: What is a container? This concept page will teach you about containers and provide a quick hands-on where you will run your first container.
----
-
-{{< youtube-embed W1kWqFkiu7k >}}
 
 ## Explanation
 
@@ -174,16 +170,6 @@ The `docker/welcome-to-docker` container continues to run until you stop it. You
 
 {{< /tab >}}
 {{< /tabs >}}
-
-## Additional resources
-
-The following links provide additional guidance into containers:
-
-- [Running a container](/engine/reference/run/)
-- [Overview of container](https://www.docker.com/resources/what-container/)
-- [Why Docker?](https://www.docker.com/why-docker/)
-
-## Next steps
 
 Now that you have learned the basics of a Docker container, it's time to learn about Docker images.
 
