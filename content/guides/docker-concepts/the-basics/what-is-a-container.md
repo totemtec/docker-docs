@@ -75,8 +75,6 @@ When you launched the container, you exposed one of the container's ports onto y
 
 For this container, the frontend is accessible on port `8080`. To open the website, select the link in the **Port(s)** column of your container or visit [http://localhost:8080](https://localhost:8080) in your browser.
 
-![Screenshot of the landing page coming from the running container](images/access-the-frontend.webp?border)
-
 ### Explore your container
 
 Docker Desktop lets you explore and interact with different aspects of your container. Try it out yourself. 
@@ -145,7 +143,6 @@ When you launched the container, you exposed one of the container's ports onto y
 
 For this container, the frontend is accessible on port `8080`. To open the website, select the link in the **Port(s)** column of your container or visit [http://localhost:8080](https://localhost:8080) in your browser.
 
-![Screenshot of the landing page of the Nginx web server, coming from the running container](images/access-the-frontend.webp?border)
 
 ### Stop your container
 
