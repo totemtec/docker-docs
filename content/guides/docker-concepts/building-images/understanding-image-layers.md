@@ -1,8 +1,7 @@
----
-title: Understanding the image layers
+# Understanding the image layers
 keywords: concepts, build, images, container, docker desktop
 description: This concept page will teach you about the layers of container image.
----
+
 
 {{< youtube-embed wJwqtAkmtQA >}}
 
@@ -192,17 +191,7 @@ Now that you have a base image, you can extend that image to build additional im
     $ docker rm -f app-container
     ```
 
-## Additional resources
-
-If you’d like to dive deeper into the things you learned, check out the following resources:
-
-* [docker image history CLI reference](/reference/cli/docker/image/history/)
-* [docker image layers](/build/guide/layers/)
-* [`docker container commit`](/reference/cli/docker/container/commit/)
-
-
 ## Next steps
 
 As hinted earlier, most image builds don’t use `docker container commit`. Instead, you’ll use a Dockerfile which automates these steps for you.
 
-{{< button text="Writing a Dockerfile" url="writing-a-dockerfile" >}}
