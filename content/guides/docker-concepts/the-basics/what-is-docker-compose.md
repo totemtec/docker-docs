@@ -1,10 +1,7 @@
----
-title: What is Docker Compose?
+# What is Docker Compose?
 keywords: concepts, build, images, container, docker desktop
 description: What is Docker Compose?
----
 
-{{< youtube-embed xhcUIK4fGtY >}}
 
 ## Explanation
 
@@ -125,13 +122,3 @@ Since this application was started using Docker Compose, it's easy to tear it al
     { .important }
 
 In this walkthrough, you learned how to use Docker Compose to start and stop a multi-container application.
-
-
-## Additional resources
-
-This page was a brief introduction to Compose. In the following resources, you can dive deeper into Compose and how to write Compose files.
-
-
-* [Overview of Docker Compose](/compose/)
-* [Overview of Docker Compose CLI](/compose/reference/)
-* [How Compose works](/compose/compose-application-model/)
